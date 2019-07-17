@@ -19,7 +19,7 @@ def using_shift(array)
   array.shift
 end
 
-def shirt_with_args(array)
+def shift_with_args(array)
   array.shift(2)
 end
 
