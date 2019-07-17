@@ -27,5 +27,5 @@ def using_concat(array_1, array_2)
   array_1 = ["hey", "Hi"]
   array_2 = ["Marc", "Blanchard"]
   
-  array_2.concat(arr)
+  array_1.concat(array_2)
 end
